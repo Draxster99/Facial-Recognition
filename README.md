@@ -1,2 +1,2 @@
 # Facial-Recognition
-Done as course requirement for SMAI
+Done as course requirement for Statiscal Methods in AI
